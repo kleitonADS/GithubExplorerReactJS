@@ -1,4 +1,4 @@
-import './Styles/global.css';
+import './Styles/global.scss';
 
 export function App(){
     return <h1>Hello! ReactJS!!!</h1>
